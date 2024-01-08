@@ -1,0 +1,15 @@
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\c101\bin\Debug\net7.0\c101.exe
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\c101\bin\Debug\net7.0\c101.deps.json
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\c101\bin\Debug\net7.0\c101.runtimeconfig.json
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\c101\bin\Debug\net7.0\c101.dll
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\c101\bin\Debug\net7.0\c101.pdb
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\c101\obj\Debug\net7.0\c101.csproj.AssemblyReference.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\c101\obj\Debug\net7.0\c101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\c101\obj\Debug\net7.0\c101.AssemblyInfoInputs.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\c101\obj\Debug\net7.0\c101.AssemblyInfo.cs
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\c101\obj\Debug\net7.0\c101.csproj.CoreCompileInputs.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\c101\obj\Debug\net7.0\c101.dll
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\c101\obj\Debug\net7.0\refint\c101.dll
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\c101\obj\Debug\net7.0\c101.pdb
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\c101\obj\Debug\net7.0\c101.genruntimeconfig.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\c101\obj\Debug\net7.0\ref\c101.dll
